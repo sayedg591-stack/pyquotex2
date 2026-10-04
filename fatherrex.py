@@ -9,7 +9,7 @@ client = Quotex(
     email=email,
     password=password,
     lang="pt",  # Default pt -> Português.
-)
+)  
 
 # ==================== NEW: User Configuration ====================
 def get_user_config():
